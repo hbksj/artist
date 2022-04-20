@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "524882942025",
+    "project_id": "partyon-5e103",
+    "storage_bucket": "partyon-5e103.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524882942025:android:d078524f732386a62b8798",
+        "android_client_info": {
+          "package_name": "partyon.app.artist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524882942025-d78lp9k9hb83rdsgmesm0f46ump5tp66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "partyon.app.artist",
+            "certificate_hash": "acce9ac6f02ed3e550976e3eace8be5fc36b6fae"
+          }
+        },
+        {
+          "client_id": "524882942025-203m4p0naudp2ln1s24k7itgj9ufvqlu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFUdLdNcSdmB92Sn9IqaXvfR7a6ebtoi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524882942025-203m4p0naudp2ln1s24k7itgj9ufvqlu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

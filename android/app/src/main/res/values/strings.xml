@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Party On Artist</string>
+    <string name="facebook_app_id">971230070243882</string>
+    <string name="fb_login_protocol_scheme">fb971230070243882</string>
+    <string name="facebook_client_token">e1435b21b80e8b947b401ac16db5b336</string>
+
+
+</resources>
